@@ -32,7 +32,7 @@ namespace TravelRecord
 
                if (rows > 0)
                {
-                   DisplayAlert("Success", "Experience succesfully inserter", "OK");
+                   DisplayAlert("Success", "Experience successfully inserter", "OK");
                }
                else
                {
